@@ -1,8 +1,9 @@
-.404{
+div.404{
   display: block;
-  margin:auto;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:300px;
   padding:0px;
   width:700px;
   text-align:center;
-  margin-top:300px;
 }
